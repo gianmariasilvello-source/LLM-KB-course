@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 # LLM-KB Course
 
 This repository contains materials for the LLM-KB (Large Language Models - Knowledge Base) course.
+
+## Setup
+
+# LLM-KB-course
+
+Resources for the KB and LLM integration course.
 
 ## Setup
 
