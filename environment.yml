@@ -1,0 +1,18 @@
+name: kg-llm-course
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - ipywidgets
+  - pandas
+  - rdflib
+  - networkx
+  - matplotlib
+  - pip
+  - pip:
+      - sentence-transformers
+      - transformers
+      - faiss-cpu  # comment/remove if not available for your platform
+
