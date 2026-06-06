@@ -1,6 +1,6 @@
 # Knowledge Graphs and LLMs Integration
 
-This repository provides a clean, best-practices template for teaching with Jupyter notebooks, inspired by [github.com/alenegro81/knowledge-graphs-and-llms-in-action/tree/main/chapters/ch03](https://github.com/alenegro81/knowledge-graphs-and-llms-in-action/tree/main/chapters/ch03).
+Inspired by [github.com/alenegro81/knowledge-graphs-and-llms-in-action/tree/main/chapters/ch03](https://github.com/alenegro81/knowledge-graphs-and-llms-in-action/tree/main/chapters/ch03).
 
 ## Structure
 
